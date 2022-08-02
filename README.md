@@ -1,2 +1,2 @@
 # Numerical-Analysis
-求解器的编程
+数值分析课程中的求解器的编程
